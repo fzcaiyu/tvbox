@@ -34,15 +34,11 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀8-巧计线路"
         },
-       
-
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🚀9-运输车路"
         },
-        
-        
-        {
+       {
             "url": "https://100km.top/0",
             "name": "🚀10-骚 0线路"
         },
@@ -50,7 +46,6 @@
             "url": "https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "🚀11-霜辉月明 py"
         },
- 
         {
             "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀12-高天流云js"
@@ -63,7 +58,6 @@
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🚀14-南风线路"
         },
-     
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "🚀15-影探线路"
